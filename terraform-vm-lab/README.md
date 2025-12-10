@@ -14,4 +14,5 @@ Wszystkie nazwy zasobów zawierają numer indeksu studenta.
 - Linux Virtual Machine  
 
 ## Architektura
-![Zrzut ekranu z Resource Visualizer](./resource-visualizer.png)
+
+<img width="1917" height="958" alt="resource-visualizer-vm" src="https://github.com/user-attachments/assets/87242bee-dfa0-4d4b-bc1c-95b332098795" />
