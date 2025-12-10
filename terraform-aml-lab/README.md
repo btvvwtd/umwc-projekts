@@ -14,4 +14,5 @@ Wszystkie nazwy zasobów zawierają numer indeksu studenta.
 - AML Workspace  
 
 ## Architektura
-![Zrzut ekranu z Resource Visualizer](./resource-visualizer.png)
+
+<img width="1918" height="958" alt="resource-visualizer-aml" src="https://github.com/user-attachments/assets/0585cf9a-07a6-4641-8bfb-2bfa6150c7df" />
