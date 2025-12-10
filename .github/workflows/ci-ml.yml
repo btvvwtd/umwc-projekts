@@ -2,9 +2,9 @@ name: CI-ML
 
 on:
   push:
-    branches: [ main ]
+    branches: [ umwc-lab2 ]
   pull_request:
-    branches: [ main ]
+    branches: [ umwc-lab2 ]
   workflow_dispatch:
     inputs:
       target_env:
