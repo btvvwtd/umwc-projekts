@@ -2,9 +2,9 @@ name: Pierwszy workflow
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "umwc-lab1" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "umwc-lab1" ]
 
 jobs:
   build:
